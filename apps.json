@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "textclip",
+    "title": "TextClip",
+    "tagline": "Clipboard manager and text recognizer.",
+    "iconUrl": "/images/app-icon-1.png",
+    "downloadUrl": "/apps/TextClip.zip",
+    "version": "1.0.3",
+    "category": "Productivity",
+    "longDescription": "<p>TextClip is a powerful utility to manage your clipboard history and recognize text from anywhere on your screen.</p><p><strong>Features:</strong></p><ul><li>Access your clipboard history with a simple shortcut.</li><li>Capture text or QR codes from any image or video.</li><li>Requires Accessibility and Screen Capture permissions to work its magic.</li></ul>",
+    "screenshots": [
+      "/images/screenshots/textclip-1.png",
+      "/images/screenshots/textclip-2.png"
+    ]
+  },
+  {
+    "slug": "peak-browser",
+    "title": "Peak Browser",
+    "tagline": "A minimal browser for maximum focus.",
+    "iconUrl": "/images/app-icon-2.png",
+    "downloadUrl": "/apps/peak-browser.zip",
+    "version": "1.0.0",
+    "category": "Utilities",
+    "longDescription": "<p>Peak Browser is designed from the ground up to be a distraction-free, minimal, and fast web browser. Focus on what matters without the clutter of traditional browsers.</p><p>Perfect for reading articles, doing research, or any task where focus is key.</p>",
+    "screenshots": [
+      "/images/screenshots/peak-1.png"
+    ]
+  }
+]
