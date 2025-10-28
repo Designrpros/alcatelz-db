@@ -11,19 +11,20 @@
     "screenshots": [
       "/images/screenshots/textclip-1.png",
       "/images/screenshots/textclip-2.png"
-    ]
+    ],
+    "website": "https://www.text-clip.vercel.app"
   },
   {
     "slug": "peak-browser",
     "title": "Peak Browser",
     "tagline": "A minimal browser for maximum focus.",
     "iconUrl": "/images/app-icon-2.png",
-    "downloadUrl": "/apps/peak-browser.zip",
+    "downloadUrl": "/https://peak-browser.vercel.app/peak-browser.zip",
     "version": "1.0.0",
-    "category": "Utilities",
+    "category": "Productivity",
     "longDescription": "<p>Peak Browser is designed from the ground up to be a distraction-free, minimal, and fast web browser. Focus on what matters without the clutter of traditional browsers.</p><p>Perfect for reading articles, doing research, or any task where focus is key.</p>",
     "screenshots": [
       "/images/screenshots/peak-1.png"
-    ]
-  }
+    ],
+    "website": "https://peak-browser.vercel.app/"
 ]
